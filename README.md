@@ -10,5 +10,4 @@ FD is pretty easy to use, just choose your image inputs, select any object(s) (w
 
 # Why FD ?
 
-Because im not a rich guy like the ones who buyed Stamp It (-> FD better). Seriously theres a tutorial online to create the node group in question, and it is selled for 17.75 bucks !
-https://blendermarket.com/products/easy-decal--stamp
+Because im not a rich guy like the ones who buyed Stamp It : https://blendermarket.com/products/easy-decal--stamp (-> FD better). Seriously theres a tutorial online to create the node group in question, and it is selled for 17.75 bucks !

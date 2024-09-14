@@ -1,6 +1,6 @@
 # Fast-Decal ?
 
-Tired of having to struggle to texture paint images on mesh materials, and having to take 3 years to create a node node?
+Tired of having to struggle to texture paint images on mesh materials, and having to take 3 years to create a node knot ? You are at the right place ! This addon permit you to paste any type of texture by using image on a mesh by using a node group.
 
 # WTF is FD ?
 
